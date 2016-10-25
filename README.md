@@ -1,0 +1,2 @@
+# Vagrantize
+Vagrant And Co.
